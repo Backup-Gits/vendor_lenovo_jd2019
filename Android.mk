@@ -17,6 +17,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),kunlun2)
+ifeq ($(TARGET_DEVICE),jd2019)
 
 endif
